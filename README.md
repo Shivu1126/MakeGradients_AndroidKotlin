@@ -11,7 +11,7 @@ MakeGradients is a Kotlin-based Android app designed for frontend developers who
 - Create multiple gradients and manage them on the main screen.
 
 ## Screenshots
-*(Add screenshots of your app here)*
+![Gradients UI](https://github.com/user-attachments/assets/ec6c90f4-8959-44a3-a3fc-8a7b75ffd632)
 
 ## Tech Stack
 - **Kotlin** – Primary programming language.
@@ -36,6 +36,8 @@ dependencies {
     kapt(libs.androidx.room.compiler)
 }
 ```
+## App APK
+[Download APK](main/app-debug.apk)
 
 ## Contribution
 Feel free to contribute! Fork the repository, make changes, and submit a pull request.
