@@ -37,7 +37,7 @@ dependencies {
 }
 ```
 ## App APK
-[Download APK](main/app-debug.apk)
+[Download APK](https://github.com/Shivu1126/MakeGradients_AndroidKotlin/blob/main/app-debug.apk)
 
 ## Contribution
 Feel free to contribute! Fork the repository, make changes, and submit a pull request.
